@@ -4,7 +4,6 @@ const text = "C is fun";
 
 if (isNaN(timesNum)) {
   console.log("Missing number of occurrences");
-  console.log("");  // second console.log to meet requirement
 } else {
   let i = 0;
   while (i < timesNum) {
